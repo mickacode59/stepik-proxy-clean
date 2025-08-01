@@ -1,0 +1,41 @@
+{
+  "слово": {
+    "word": "слово",
+    "translation": "mot",
+    "transcription": "[ˈslovə]",
+    "examples": [
+      "Это слово очень важное.",
+      "Я не понимаю это слово."
+    ],
+    "audio": "https://dict.ruslang.ru/mp3/slovo.mp3",
+    "gender": "neutre",
+    "type": "nom",
+    "synonyms": [
+      "термин",
+      "выражение"
+    ],
+    "antonyms": [
+      "молчание"
+    ],
+    "conjugation": null
+  },
+  "идти": {
+    "word": "идти",
+    "translation": "aller",
+    "transcription": "marcher",
+    "examples": [
+      "[ɪdˈtʲi]"
+    ],
+    "audio": "Я иду домой.|Он идёт быстро.",
+    "gender": "https://dict.ruslang.ru/mp3/idti.mp3",
+    "type": "",
+    "synonyms": [
+      "verbe"
+    ],
+    "antonyms": [
+      "шагать",
+      "двигаться"
+    ],
+    "conjugation": null
+  }
+}

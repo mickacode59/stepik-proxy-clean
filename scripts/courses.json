@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Conversation Débutant #1",
+    "description": "Cours pour débuter la conversation en russe.",
+    "level": "beginner",
+    "category": "Conversation",
+    "imageUrl": "https://source.unsplash.com/600x400/?russia,conversation,beginner",
+    "lessonsCount": 10,
+    "estimatedTime": 90,
+    "tags": ["conversation", "beginner"],
+    "isCompleted": false,
+    "progress": 0,
+    "rating": 4.5,
+    "enrolledCount": 120
+  },
+  {
+    "title": "Grammaire Intermédiaire #1",
+    "description": "Approfondir la grammaire russe niveau intermédiaire.",
+    "level": "intermediate",
+    "category": "Grammaire",
+    "imageUrl": "https://source.unsplash.com/600x400/?russia,grammaire,intermediate",
+    "lessonsCount": 12,
+    "estimatedTime": 110,
+    "tags": ["grammaire", "intermediate"],
+    "isCompleted": false,
+    "progress": 0,
+    "rating": 4.2,
+    "enrolledCount": 80
+  },
+  {
+    "title": "Littérature Avancé #1",
+    "description": "Découverte de la littérature russe pour avancés.",
+    "level": "advanced",
+    "category": "Littérature",
+    "imageUrl": "https://source.unsplash.com/600x400/?russia,litterature,advanced",
+    "lessonsCount": 15,
+    "estimatedTime": 130,
+    "tags": ["littérature", "advanced"],
+    "isCompleted": false,
+    "progress": 0,
+    "rating": 4.8,
+    "enrolledCount": 60
+  }
+]

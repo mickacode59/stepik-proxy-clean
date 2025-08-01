@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <!-- Meta tags PWA iOS/Android enrichis -->
+    <meta name="apple-mobile-web-app-title" content="myrusse">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="application-name" content="myrusse">
+    <meta name="msapplication-TileColor" content="#DC2626">
+    <meta name="msapplication-TileImage" content="/icon-192.png">
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>myrusse - Apprendre le russe en ligne</title>
+    <meta name="description" content="Plateforme d'apprentissage du russe moderne avec cours interactifs, communauté et outils avancés" />
+    <meta name="keywords" content="russe, apprentissage, langue, cours, exercices, communauté" />
+    <meta property="og:title" content="myrusse - Apprendre le russe en ligne" />
+    <meta property="og:description" content="Plateforme d'apprentissage du russe moderne avec cours interactifs, communauté et outils avancés" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://myrusse.com" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="myrusse - Apprendre le russe en ligne" />
+    <meta name="twitter:description" content="Plateforme d'apprentissage du russe moderne avec cours interactifs, communauté et outils avancés" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="manifest" href="/manifest.webmanifest">
+    <!-- Theme color pour PWA et support clair/sombre -->
+    <meta name="theme-color" content="#DC2626" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#1f2937" media="(prefers-color-scheme: dark)">
+    <!-- Ajout meta tags dans index.html pour PWA iOS -->
+    <link rel="apple-touch-icon" href="/icon-192.png">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="prefetch" href="/courses" />
+    <link rel="prefetch" href="/dashboard" />
+    <link rel="prefetch" href="/courseplayer" />
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-XXXXXXXXXX', { 'anonymize_ip': true });
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function() {
+          navigator.serviceWorker.register('/service-worker.js');
+        });
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "course1-cloze-1",
+    "courseId": "course1",
+    "title": "Texte à trous 1",
+    "description": "Complétez la phrase russe avec le mot manquant.",
+    "content": {
+      "type": "cloze",
+      "data": "Я ___ студент."
+    },
+    "exercises": [
+      {
+        "type": "cloze",
+        "text": "Я ___ студент.",
+        "answer": "русский"
+      }
+    ],
+    "order": 10,
+    "estimatedTime": 8,
+    "isCompleted": false
+  },
+  {
+    "id": "course1-cloze-2",
+    "courseId": "course1",
+    "title": "Texte à trous 2",
+    "description": "Complétez la salutation.",
+    "content": {
+      "type": "cloze",
+      "data": "___ утро!"
+    },
+    "exercises": [
+      {
+        "type": "cloze",
+        "text": "___ утро!",
+        "answer": "Доброе"
+      }
+    ],
+    "order": 11,
+    "estimatedTime": 10,
+    "isCompleted": false
+  },
+  {
+    "id": "course1-cloze-3",
+    "courseId": "course1",
+    "title": "Texte à trous 3",
+    "description": "Complétez la phrase.",
+    "content": {
+      "type": "cloze",
+      "data": "Меня зовут ___ ."
+    },
+    "exercises": [
+      {
+        "type": "cloze",
+        "text": "Меня зовут ___ .",
+        "answer": "Анна"
+      }
+    ],
+    "order": 12,
+    "estimatedTime": 12,
+    "isCompleted": false
+  },
+  {
+    "id": "course2-cloze-1",
+    "courseId": "course2",
+    "title": "Texte à trous 1",
+    "description": "Complétez la phrase russe avec le mot manquant.",
+    "content": {
+      "type": "cloze",
+      "data": "Я ___ студент."
+    },
+    "exercises": [
+      {
+        "type": "cloze",
+        "text": "Я ___ студент.",
+        "answer": "русский"
+      }
+    ],
+    "order": 10,
+    "estimatedTime": 8,
+    "isCompleted": false
+  },
+  {
+    "id": "course2-cloze-2",
+    "courseId": "course2",
+    "title": "Texte à trous 2",
+    "description": "Complétez la salutation.",
+    "content": {
+      "type": "cloze",
+      "data": "___ утро!"
+    },
+    "exercises": [
+      {
+        "type": "cloze",
+        "text": "___ утро!",
+        "answer": "Доброе"
+      }
+    ],
+    "order": 11,
+    "estimatedTime": 10,
+    "isCompleted": false
+  },
+  {
+    "id": "course2-cloze-3",
+    "courseId": "course2",
+    "title": "Texte à trous 3",
+    "description": "Complétez la phrase.",
+    "content": {
+      "type": "cloze",
+      "data": "Меня зовут ___ ."
+    },
+    "exercises": [
+      {
+        "type": "cloze",
+        "text": "Меня зовут ___ .",
+        "answer": "Анна"
+      }
+    ],
+    "order": 12,
+    "estimatedTime": 12,
+    "isCompleted": false
+  },
+  {
+    "id": "course3-cloze-1",
+    "courseId": "course3",
+    "title": "Texte à trous 1",
+    "description": "Complétez la phrase russe avec le mot manquant.",
+    "content": {
+      "type": "cloze",
+      "data": "Я ___ студент."
+    },
+    "exercises": [
+      {
+        "type": "cloze",
+        "text": "Я ___ студент.",
+        "answer": "русский"
+      }
+    ],
+    "order": 10,
+    "estimatedTime": 8,
+    "isCompleted": false
+  },
+  {
+    "id": "course3-cloze-2",
+    "courseId": "course3",
+    "title": "Texte à trous 2",
+    "description": "Complétez la salutation.",
+    "content": {
+      "type": "cloze",
+      "data": "___ утро!"
+    },
+    "exercises": [
+      {
+        "type": "cloze",
+        "text": "___ утро!",
+        "answer": "Доброе"
+      }
+    ],
+    "order": 11,
+    "estimatedTime": 10,
+    "isCompleted": false
+  },
+  {
+    "id": "course3-cloze-3",
+    "courseId": "course3",
+    "title": "Texte à trous 3",
+    "description": "Complétez la phrase.",
+    "content": {
+      "type": "cloze",
+      "data": "Меня зовут ___ ."
+    },
+    "exercises": [
+      {
+        "type": "cloze",
+        "text": "Меня зовут ___ .",
+        "answer": "Анна"
+      }
+    ],
+    "order": 12,
+    "estimatedTime": 12,
+    "isCompleted": false
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/stepik/:match*", "destination": "https://stepik-proxy.vercel.app/stepik/:match*" }
+  ]
+}

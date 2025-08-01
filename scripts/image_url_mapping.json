@@ -1,0 +1,52 @@
+[
+  {
+    "old": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/6/6b/Moscow_Kremlin_and_Red_Square.jpg",
+    "new": null,
+    "error": "HTTP 404"
+  },
+  {
+    "old": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/3/3e/Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg",
+    "new": null,
+    "error": "HTTP 404"
+  },
+  {
+    "old": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/7/7e/Hermitage_Museum_Saint_Petersburg.jpg",
+    "new": null,
+    "error": "HTTP 404"
+  },
+  {
+    "old": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/2/2e/Kizhi_Pogost.jpg",
+    "new": null,
+    "error": "HTTP 404"
+  },
+  {
+    "old": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/6/6e/The_Motherland_Calls.jpg",
+    "new": null,
+    "error": "HTTP 404"
+  },
+  {
+    "old": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Moscow_Kremlin_and_Red_Square.jpg",
+    "new": null,
+    "error": "HTTP 404"
+  },
+  {
+    "old": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg",
+    "new": null,
+    "error": "HTTP 404"
+  },
+  {
+    "old": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Hermitage_Museum_Saint_Petersburg.jpg",
+    "new": null,
+    "error": "HTTP 404"
+  },
+  {
+    "old": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Kizhi_Pogost.jpg",
+    "new": null,
+    "error": "HTTP 404"
+  },
+  {
+    "old": "https://upload.wikimedia.org/wikipedia/commons/6/6e/The_Motherland_Calls.jpg",
+    "new": null,
+    "error": "HTTP 404"
+  }
+]

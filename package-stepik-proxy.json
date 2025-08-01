@@ -1,0 +1,13 @@
+{
+  "name": "stepik-proxy",
+  "version": "1.0.0",
+  "main": "stepik-proxy.js",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7"
+  },
+  "scripts": {
+    "start": "node stepik-proxy.js"
+  }
+}
